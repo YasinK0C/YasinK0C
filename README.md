@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on software
 - 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning javascript
 - 
 - 👯 I’m looking to collaborate on software development
 - 
