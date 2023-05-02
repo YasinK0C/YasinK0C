@@ -10,7 +10,6 @@
 - 
 - 🤔 I’m looking for help with javascript
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasinK0C&show_icons=true&theme=dracula" align='center' width="55%">
 
 <!--
 **YasinK0C/YasinK0C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
